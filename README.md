@@ -36,6 +36,7 @@ Employee Tracker is a command-line application. This application will help manag
 - MySql
 - Dotenv
 - Sequelize
+- Nodemon
 
 ### Contributors
 
